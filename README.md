@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code. Everything about it.
 - 🌱 I’m currently learning software development at ALX
 - 💞️ I’m looking to collaborate on Artificial intelligence, and possibly data science in Medicine
-- 📫 How to reach me; email<wechuli017@gmail.com>
+- 📫 How to reach me: <a href="wechuli017@gmail.com">Email</a>
 
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

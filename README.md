@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Wechuli.
-- 👀 I’m interested in software. Everything about it.
+- 👀 I’m interested in software.
 - 🌱 I’m currently learning software development at ALX.
 - 💞️ I’m looking to collaborate on Artificial intelligence, and possibly data science in Medicine.
-- 📫 How to reach me: <a href="wechuli017@gmail.com">Email</a>
+- 📫 How to reach me: 
+-         <a href="wechuli017@gmail.com">Email</a>
+-         <a href="https://twitter.com/wechuli_eugene">Twitter</a>
+-         <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a>
 
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wechuli.
-- 👀 I’m interested in software.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning software development at ALX.
 - 💞️ I’m looking to collaborate on Artificial intelligence, and possibly data science in Medicine.
 - 📫 How to reach me: <a href="wechuli017@gmail.com">Email</a>

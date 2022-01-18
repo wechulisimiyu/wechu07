@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wechuli.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning software development at ALX.
-- 💞️ I’m looking to collaborate on Artificial intelligence, and possibly data science in Medicine.
+- 💞️ Interested in Artificial intelligence, and possibly data science in Medicine.
 - 📫 How to reach me: <a href="wechuli017@gmail.com">Email</a>
 - 🐥 On <a href="https://twitter.com/wechuli_eugene">Twitter</a>
 - 👷‍♂️ My <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> profile

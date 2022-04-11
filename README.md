@@ -1,6 +1,6 @@
 - 👋 Hi, Wechuli here.
 - 👀 I’m interested in information, and growth.
-- 🌱 I’m currently learning software development at ALX.
+- 🌱 Currently learning software development at ALX.
 - 💞️ Specific interests in Artificial intelligence, and possibly data science in Medicine, maybe in the future. Right now just sharpening my web development skills.
 - 📫 Mail me <a href="wechuli017@gmail.com">here</a>
 - 🐥 On <a href="https://twitter.com/wechuli_eugene">Twitter</a>

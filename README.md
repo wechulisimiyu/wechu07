@@ -23,7 +23,7 @@ A guy called Kenneth Mathari has it laid out pretty well.
 You might find the <a href="https://medium.com/@KennethMathari/adding-now-playing-spotify-to-github-readme-md-43ae56156e23">Medium</a> link to the blogpost he made more useful
 
 ## Seriously though
-Send him an <a href="wechuli017@gmail.com">email</a>, or you could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
+Send him(back to Wechuli) an <a href="wechuli017@gmail.com">email</a>, or you could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 
 <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> might show you want he wants the 'Industry' to about him.
 

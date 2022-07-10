@@ -25,7 +25,7 @@ You might find the <a href="https://medium.com/@KennethMathari/adding-now-playin
 ## Seriously though
 Send him(back to Wechuli) an <a href="wechuli017@gmail.com">email</a>, or you could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 
-<a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> might show you want he wants the 'Industry' to about him.
+<a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> might show more.
 
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

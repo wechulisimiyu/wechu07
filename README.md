@@ -5,6 +5,9 @@
 </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i6vpv13n5xurcojf7j62bj940&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 He (Wechuli) put it up there to distract you. He is probably not even listening to anything.
 
 ### Incase you want to ask him how he did it
@@ -12,8 +15,6 @@ He (Wechuli) put it up there to distract you. He is probably not even listening 
 Send him an <a href="wechuli017@gmail.com">Email</a>, or you could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 
 <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> might show you want he wants the 'Industry' to about him.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i6vpv13n5xurcojf7j62bj940&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

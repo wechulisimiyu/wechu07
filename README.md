@@ -23,9 +23,17 @@ A guy called Kenneth Mathari has it laid out pretty well.
 You might find the <a href="https://medium.com/@KennethMathari/adding-now-playing-spotify-to-github-readme-md-43ae56156e23">Medium</a> link to the blogpost he made more useful
 
 ## Seriously though
-Send him(back to Wechuli) an <a href="wechuli017@gmail.com">email</a>, or you could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
+You could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 
-<a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">LinkedIn</a> might show more.
+<p>
+  <p align="center">	
+    <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">
+      <img alt="Wechuli Simiyu" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    </a>
+  <a href="mailto:wechulieugene@hotmail.com">
+   <img src="https://camo.githubusercontent.com/b9cbb0fa6c31042495bcf7fb283d2bbdaaab3e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f75746c6f6f6b2d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d4d6963726f736f66742532304f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6c656f6e61726474406f75746c6f6f6b2e636f6d" alt="Outlook Badge" data-canonical-src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:leonardt@outlook.com" style="max-width:100%;">
+  </a>
+</p>
 
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

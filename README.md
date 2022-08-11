@@ -30,13 +30,17 @@ You could check out what nonsense he's posting on <a href="https://twitter.com/w
     <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">
       <img alt="Wechuli Simiyu" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
     </a>
-  <a href="mailto:wechulieugene@hotmail.com">
+  <a href="mailto:wechuli017@gmail.com">
    <img src="https://camo.githubusercontent.com/b9cbb0fa6c31042495bcf7fb283d2bbdaaab3e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f75746c6f6f6b2d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d4d6963726f736f66742532304f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6c656f6e61726474406f75746c6f6f6b2e636f6d" alt="Outlook Badge" data-canonical-src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:leonardt@outlook.com" style="max-width:100%;">
   </a>
 </p>
 
 | [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) |![](https://komarev.com/ghpvc/?username=wechu07&style=flat-square&style=plastic) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
+
+![](https://github-readme-stats.vercel.app/api?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wechu07&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!---

@@ -10,7 +10,7 @@
 
 He (Wechuli) put it up there to distract you. He is probably not even listening to anything.
 
-## Incase you want to ask him how he did it
+## Incase you wanted to know how he did it
 
 'Did it' is a very strong claim, obviously he found it online.
 
@@ -25,6 +25,7 @@ You might find the <a href="https://medium.com/@KennethMathari/adding-now-playin
 ## Seriously though
 You could check out what nonsense he's posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 
+Or reach out.
 <p>
   <p align="center">	
     <a href="https://www.linkedin.com/in/wechuli-eugene-053b89169/">

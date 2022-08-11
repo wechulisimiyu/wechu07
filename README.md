@@ -35,7 +35,7 @@ You could check out what nonsense he's posting on <a href="https://twitter.com/w
   </a>
 </p>
 
-| [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) | ![Profile Views](![](https://komarev.com/ghpvc/?wechu07&color=green)) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) | ![Profile Views](![](https://komarev.com/ghpvc/?username=wechu07&color=green&style=flat-square)) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 

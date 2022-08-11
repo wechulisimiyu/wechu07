@@ -35,6 +35,10 @@ You could check out what nonsense he's posting on <a href="https://twitter.com/w
   </a>
 </p>
 
+| [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) | ![Profile Views](![](https://komarev.com/ghpvc/?wechu07&color=green)) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

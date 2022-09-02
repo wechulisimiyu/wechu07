@@ -1,3 +1,5 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### Now Playing — Spotify 🎧
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=i6vpv13n5xurcojf7j62bj940&redirect=true">

@@ -41,9 +41,12 @@ Or reach out.
 | [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) |![](https://komarev.com/ghpvc/?username=wechu07&style=flat-square&style=plastic) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
-![](https://github-readme-stats.vercel.app/api?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wechu07&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wechu07&theme=react-dark)  
 
 
 <!---

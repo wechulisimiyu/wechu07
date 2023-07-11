@@ -12,16 +12,6 @@
 
 He (Wechuli) put it up there to distract you. He is probably not even listening to anything.
 
-## Incase you wanted to know how he did it
-
-'Did it' is a very strong claim, obviously he found it online.
-
-A guy called Kenneth Mathari has it laid out pretty well.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think having your <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@Github</a> README profile connected to your <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@Spotify</a> account is a cool thing to have😅<br>Follow this link to find out how you can do the same:<a href="https://t.co/sufjsCBoiN">https://t.co/sufjsCBoiN</a> <a href="https://t.co/GHzyrl3OSu">pic.twitter.com/GHzyrl3OSu</a></p>&mdash; Kenn (@KennethMathari) <a href="https://twitter.com/KennethMathari/status/1542884397434769408?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> 
-
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
 You might find the <a href="https://medium.com/@KennethMathari/adding-now-playing-spotify-to-github-readme-md-43ae56156e23">Medium</a> link to the blogpost he made more useful
 
 ## Seriously though

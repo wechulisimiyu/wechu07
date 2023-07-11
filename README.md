@@ -12,8 +12,6 @@
 
 He (Wechuli) put it up there to distract you. He is probably not even listening to anything.
 
-You might find the <a href="https://medium.com/@KennethMathari/adding-now-playing-spotify-to-github-readme-md-43ae56156e23">Medium</a> link to the blogpost he made more useful
-
 ## Seriously though
 You could check out what nonsense he's (again, Wechuli's) posting on <a href="https://twitter.com/wechuli_eugene">Twitter</a>.
 

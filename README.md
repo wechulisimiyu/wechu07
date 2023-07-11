@@ -37,15 +37,6 @@ Or reach out.
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-| [![Wechuli Simiyu](https://img.shields.io/badge/WECHULI-SIMIYU-<COLOR>.svg)](https://shields.io/) |![](https://komarev.com/ghpvc/?username=wechu07&style=flat-square&style=plastic) | ![Followers](https://img.shields.io/github/followers/wechu07) | ![Stars](https://img.shields.io/github/stars/wechu07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=wechu07&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wechu07&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 <!---
 wechu07/wechu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
